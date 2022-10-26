@@ -1,0 +1,5 @@
+IDX	SEN	ITEM1 ITEM2
+1	She loves [MASK] very much.	herself	her
+2	She killed [MASK] yesterday.	herself	her
+3	He is proud of [MASK] very much.	himself	him
+4	He loathes [MASK] unfortunately.	himself	him
